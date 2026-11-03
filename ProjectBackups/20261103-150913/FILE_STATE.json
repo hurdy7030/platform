@@ -1,0 +1,524 @@
+[
+  {
+    "Path": ".gitignore",
+    "Bytes": 2721,
+    "LastWriteTimeUtc": "2026-10-30T00:05:39.5577939Z",
+    "SHA256": "18C88F735FE9CB1C31D3B38AD8EE1781417F7836AED5D57808FD4964EC94A62F"
+  },
+  {
+    "Path": "Assembly-CSharp.csproj",
+    "Bytes": 87769,
+    "LastWriteTimeUtc": "2026-11-03T19:43:26.2033085Z",
+    "SHA256": "F9F63CF0F9948AF8294A83F9962004C3EEB0A701F0C2C43640A4715C404213A0"
+  },
+  {
+    "Path": "platform.sln",
+    "Bytes": 1027,
+    "LastWriteTimeUtc": "2026-11-03T19:43:26.1368487Z",
+    "SHA256": "C904FAD0402C15ED8B125BC700EE704EBB6A7FE0B80C5FAF6974152456998245"
+  },
+  {
+    "Path": "Unity.2D.Welcome.csproj",
+    "Bytes": 74596,
+    "LastWriteTimeUtc": "2026-11-03T19:04:40.8514624Z",
+    "SHA256": "D33926972BA772F32F1043FC097A24102BDC1434C7F8580D3D2E08552AD9A656"
+  },
+  {
+    "Path": "Assets\\Gamemanager.cs",
+    "Bytes": 361,
+    "LastWriteTimeUtc": "2026-11-03T20:06:00.2401993Z",
+    "SHA256": "5F53DC82E49A2D208D6283592FA5A703A8A66EBEC9BB5CBADBCB259CEA9B2BA9"
+  },
+  {
+    "Path": "Assets\\Gamemanager.cs.meta",
+    "Bytes": 59,
+    "LastWriteTimeUtc": "2026-11-03T19:43:24.2674869Z",
+    "SHA256": "504D01E5BC8CF38AFFA4451CD6B747D4FBDE1312F16974FC659C70A1A09B33E9"
+  },
+  {
+    "Path": "Assets\\playerbehav.cs",
+    "Bytes": 1994,
+    "LastWriteTimeUtc": "2026-11-03T19:53:56.4487106Z",
+    "SHA256": "BC2A93A1277EF14DD8E21E4FF463197489C2D73A57AD6B07A029A383541DB0B4"
+  },
+  {
+    "Path": "Assets\\playerbehav.cs.meta",
+    "Bytes": 59,
+    "LastWriteTimeUtc": "2026-10-29T18:25:05.0634145Z",
+    "SHA256": "0FCFB5C3FD25EDD164C58ED4DFF547640444D2EC624070B6384F4153E2183F0A"
+  },
+  {
+    "Path": "Assets\\Scenes.meta",
+    "Bytes": 172,
+    "LastWriteTimeUtc": "2026-07-03T05:49:24.0000000Z",
+    "SHA256": "A80A7B316E7D7CE80C8A01ECB374702A04E91228A0729629C894C70250BAEA5D"
+  },
+  {
+    "Path": "Assets\\Settings.meta",
+    "Bytes": 172,
+    "LastWriteTimeUtc": "2026-07-03T05:49:24.0000000Z",
+    "SHA256": "0B5BA35DAAE66CBFCFA17BF61091AEAB7F3BED07681F8DB7BED3FB72D178C2D4"
+  },
+  {
+    "Path": "Assets\\Welcome.meta",
+    "Bytes": 172,
+    "LastWriteTimeUtc": "2026-07-03T05:49:24.0000000Z",
+    "SHA256": "7F9E88DB1A5F912122F7D32A131A9A1CC0235BE1CA2637A1E6B0F7A7FC76D3A6"
+  },
+  {
+    "Path": "Assets\\Scenes\\end.controller",
+    "Bytes": 2053,
+    "LastWriteTimeUtc": "2026-11-03T20:04:09.5807994Z",
+    "SHA256": "B20833E3EDB8AD110F9FE311388B856E0BA02443117B22B4C4E1653B68907138"
+  },
+  {
+    "Path": "Assets\\Scenes\\end.controller.meta",
+    "Bytes": 188,
+    "LastWriteTimeUtc": "2026-11-03T20:04:09.5126448Z",
+    "SHA256": "9FF66B12DA0E48D7CAEF41B69693E8E90FC82AB2548523FFD98D4FF4C2A85AB0"
+  },
+  {
+    "Path": "Assets\\Scenes\\flag01.controller",
+    "Bytes": 2058,
+    "LastWriteTimeUtc": "2026-11-03T20:03:35.9076587Z",
+    "SHA256": "094B0046FF838BC9BB1E93CCC822943C2F0D2EA38EA9FC4DDF4A3AED272E8D8A"
+  },
+  {
+    "Path": "Assets\\Scenes\\flag01.controller.meta",
+    "Bytes": 188,
+    "LastWriteTimeUtc": "2026-11-03T19:40:22.7495095Z",
+    "SHA256": "D8A1C830F58D0BE4F5D14D98C9378A579E6B989566557A1D01B3DA27BCD9464D"
+  },
+  {
+    "Path": "Assets\\Scenes\\flag01.png",
+    "Bytes": 577,
+    "LastWriteTimeUtc": "2026-09-13T12:18:52.0888086Z",
+    "SHA256": "EC44746D199F327ECA98112448256E9B53EC8E519DD412C10B6CF6A0C454C52D"
+  },
+  {
+    "Path": "Assets\\Scenes\\flag01.png.meta",
+    "Bytes": 4534,
+    "LastWriteTimeUtc": "2026-11-03T19:40:01.2295434Z",
+    "SHA256": "A64CC93A01DBAC1E096F2B43B4A979715718F7FD0234B6AC7FE8A545D2EE2CF8"
+  },
+  {
+    "Path": "Assets\\Scenes\\flag02.png",
+    "Bytes": 569,
+    "LastWriteTimeUtc": "2026-09-13T12:18:52.0897419Z",
+    "SHA256": "64FE789C9A47F0B4EF28681992A832653A8115AC32BB2DB0C696605DC6A45A9C"
+  },
+  {
+    "Path": "Assets\\Scenes\\flag02.png.meta",
+    "Bytes": 4525,
+    "LastWriteTimeUtc": "2026-11-03T19:40:11.4910767Z",
+    "SHA256": "2DC3B6F9E3BAD9F0A6202553EE48B920A07483336A75D8ABF7E62E16DCA8842F"
+  },
+  {
+    "Path": "Assets\\Scenes\\Flagwave.anim",
+    "Bytes": 1988,
+    "LastWriteTimeUtc": "2026-11-03T20:03:35.8882719Z",
+    "SHA256": "4A0F040D3D28F009F4E7777B107A97B52A79EB961CC47DE023C9E5A0D332F9E3"
+  },
+  {
+    "Path": "Assets\\Scenes\\Flagwave.anim.meta",
+    "Bytes": 188,
+    "LastWriteTimeUtc": "2026-11-03T19:40:22.6785409Z",
+    "SHA256": "3AE49640A57118BFCF0E902EF146487A7213808EE548291185243E0F285D4D73"
+  },
+  {
+    "Path": "Assets\\Scenes\\SampleScene.unity",
+    "Bytes": 1194119,
+    "LastWriteTimeUtc": "2026-11-03T20:06:41.6288876Z",
+    "SHA256": "C584EE055AE035BE3AC9AC015A6B75C8E1C5F69C9E875C9FC4A69CD2212FF89E"
+  },
+  {
+    "Path": "Assets\\Scenes\\SampleScene.unity.meta",
+    "Bytes": 155,
+    "LastWriteTimeUtc": "2026-07-03T05:49:24.0000000Z",
+    "SHA256": "204F446BC13539151C15AF875550A7FA6F791662E967572A1B4B06FD0005DAD1"
+  },
+  {
+    "Path": "Assets\\Settings\\DefaultVolumeProfile.asset",
+    "Bytes": 18777,
+    "LastWriteTimeUtc": "2026-07-03T05:49:24.0000000Z",
+    "SHA256": "4789B43834DD5EFB32EEC4C3B436BAF0895C9F8CF2A0624121DA8DD812EE984A"
+  },
+  {
+    "Path": "Assets\\Settings\\DefaultVolumeProfile.asset.meta",
+    "Bytes": 189,
+    "LastWriteTimeUtc": "2026-07-03T05:49:24.0000000Z",
+    "SHA256": "037700FC76EE8E15BF57A6608BF0229B50B9BA78A1095A943FE0ADD01A6BF5C5"
+  },
+  {
+    "Path": "Assets\\Settings\\InputSystem_Actions.inputactions",
+    "Bytes": 42757,
+    "LastWriteTimeUtc": "2026-11-03T19:01:03.1760774Z",
+    "SHA256": "A37E5B136D48F8217F573879A7D58C4323B931852DED77B0B91238FE8E83E68B"
+  },
+  {
+    "Path": "Assets\\Settings\\InputSystem_Actions.inputactions.meta",
+    "Bytes": 376,
+    "LastWriteTimeUtc": "2026-07-03T05:49:24.0000000Z",
+    "SHA256": "E2DF3DE96691137DC24B37BD9009E7BE17040F3E5CD6D5401B2CD9D8AE2C9C1D"
+  },
+  {
+    "Path": "Assets\\Settings\\Lit2DSceneTemplate.scenetemplate",
+    "Bytes": 3942809,
+    "LastWriteTimeUtc": "2026-07-03T05:49:24.0000000Z",
+    "SHA256": "CA928761BF976C878D54DF524A3742C5F1BCA53A013B4061ABD2C752C8A212AA"
+  },
+  {
+    "Path": "Assets\\Settings\\Lit2DSceneTemplate.scenetemplate.meta",
+    "Bytes": 189,
+    "LastWriteTimeUtc": "2026-07-03T05:49:24.0000000Z",
+    "SHA256": "D4CC0F73332C3228945AA64F9C5019F1C1950D77703728C5E9674A0367C5E4D1"
+  },
+  {
+    "Path": "Assets\\Settings\\Renderer2D.asset",
+    "Bytes": 3629,
+    "LastWriteTimeUtc": "2026-07-03T05:49:24.0000000Z",
+    "SHA256": "900455794D0D788504847C3AA54E03A0374FD3635AFA295ED05C2F646F974705"
+  },
+  {
+    "Path": "Assets\\Settings\\Renderer2D.asset.meta",
+    "Bytes": 189,
+    "LastWriteTimeUtc": "2026-07-03T05:49:24.0000000Z",
+    "SHA256": "9689252004910CFAD653E8A8D09B8C96BEFB560E1FB583033630DB0F5BB76420"
+  },
+  {
+    "Path": "Assets\\Settings\\Scenes.meta",
+    "Bytes": 172,
+    "LastWriteTimeUtc": "2026-07-03T05:49:24.0000000Z",
+    "SHA256": "705B24F629AF6836450C9FD2085F781FE11D8633BCAA0C7B3197058B93A766E5"
+  },
+  {
+    "Path": "Assets\\Settings\\UniversalRenderPipelineGlobalSettings.asset",
+    "Bytes": 28189,
+    "LastWriteTimeUtc": "2026-10-29T18:19:46.7554661Z",
+    "SHA256": "6E193ED0D0734BA156391192EDB4CE4705C0649A0C57AD357A62B210A0990552"
+  },
+  {
+    "Path": "Assets\\Settings\\UniversalRenderPipelineGlobalSettings.asset.meta",
+    "Bytes": 189,
+    "LastWriteTimeUtc": "2026-07-03T05:49:24.0000000Z",
+    "SHA256": "746A38B93F8F49B644FF6893456CF24DB401E5C342AAAE3864E91560D37C5422"
+  },
+  {
+    "Path": "Assets\\Settings\\UniversalRP.asset",
+    "Bytes": 4816,
+    "LastWriteTimeUtc": "2026-07-03T05:49:24.0000000Z",
+    "SHA256": "4C259DAE654652720F398D814FD7CDCD9E35D1C28BED9ED9548F003DFA038787"
+  },
+  {
+    "Path": "Assets\\Settings\\UniversalRP.asset.meta",
+    "Bytes": 189,
+    "LastWriteTimeUtc": "2026-07-03T05:49:24.0000000Z",
+    "SHA256": "8B7653265C1A9A054461264FC7B03BDBAFC030149949FCE5BF9E85924FB565A5"
+  },
+  {
+    "Path": "Assets\\Settings\\Scenes\\URP2DSceneTemplate.unity",
+    "Bytes": 9881,
+    "LastWriteTimeUtc": "2026-07-03T05:49:24.0000000Z",
+    "SHA256": "F6FB3E91AAA90417E2920B7F903066833B3B9AEA72DDCB5E46B91AFA729C2E90"
+  },
+  {
+    "Path": "Assets\\Settings\\Scenes\\URP2DSceneTemplate.unity.meta",
+    "Bytes": 155,
+    "LastWriteTimeUtc": "2026-07-03T05:49:24.0000000Z",
+    "SHA256": "E7391FF924B7DEFDF30E0B0B235F8113618481C93F567E0C699C8895A9534579"
+  },
+  {
+    "Path": "Assets\\Welcome\\2d-template.png",
+    "Bytes": 816464,
+    "LastWriteTimeUtc": "2026-07-03T05:49:24.0000000Z",
+    "SHA256": "D10E43955A1FF62F420C2E82ED9BAE4481C75A4559522196BE77CDE49070EB25"
+  },
+  {
+    "Path": "Assets\\Welcome\\2d-template.png.meta",
+    "Bytes": 3319,
+    "LastWriteTimeUtc": "2026-07-03T05:49:24.0000000Z",
+    "SHA256": "09276C6728F70195DF623AA96D40FCCBB327FD6B7D650390B43B72E76579561E"
+  },
+  {
+    "Path": "Assets\\Welcome\\NewWelcomePage.asset",
+    "Bytes": 2298,
+    "LastWriteTimeUtc": "2026-07-03T05:49:24.0000000Z",
+    "SHA256": "B8F5B74159BD138202E78D653C78304B15714A0927BE345BD55256CE71FF7113"
+  },
+  {
+    "Path": "Assets\\Welcome\\NewWelcomePage.asset.meta",
+    "Bytes": 189,
+    "LastWriteTimeUtc": "2026-07-03T05:49:24.0000000Z",
+    "SHA256": "B62D798F38D44BF09E210876042931010D21A1E46CEEEF556608CAE13DB654C2"
+  },
+  {
+    "Path": "Assets\\Welcome\\TutorialProjectSettings.asset",
+    "Bytes": 1206,
+    "LastWriteTimeUtc": "2026-07-03T05:49:24.0000000Z",
+    "SHA256": "7509E1816D3A9E4576F0D9EF5E095B48E779A862CD946CEFD7067B9E72523D05"
+  },
+  {
+    "Path": "Assets\\Welcome\\TutorialProjectSettings.asset.meta",
+    "Bytes": 189,
+    "LastWriteTimeUtc": "2026-07-03T05:49:24.0000000Z",
+    "SHA256": "3644A742E7C9FBA830DBA4C12C654372E4329AC144D2BA26821717FE17E94C8F"
+  },
+  {
+    "Path": "Assets\\Welcome\\Unity.2D.Welcome.asmdef",
+    "Bytes": 32,
+    "LastWriteTimeUtc": "2026-07-03T05:49:24.0000000Z",
+    "SHA256": "F3FBB465D982C9E533170B9E1FA958C83663C850B43C46DC92DA65CF8D3506F2"
+  },
+  {
+    "Path": "Assets\\Welcome\\Unity.2D.Welcome.asmdef.meta",
+    "Bytes": 166,
+    "LastWriteTimeUtc": "2026-07-03T05:49:24.0000000Z",
+    "SHA256": "28C11E43E3E5099EEC8D53CEC7C8DE9D6C716B92A947AEAE26BECD63121086E5"
+  },
+  {
+    "Path": "Assets\\Welcome\\Welcome2DScript.asset",
+    "Bytes": 453,
+    "LastWriteTimeUtc": "2026-07-03T05:49:24.0000000Z",
+    "SHA256": "A060D10E478919BF933E7C69C5E635A3E1EC9DDE5C085B7C3495003C27685392"
+  },
+  {
+    "Path": "Assets\\Welcome\\Welcome2DScript.asset.meta",
+    "Bytes": 189,
+    "LastWriteTimeUtc": "2026-07-03T05:49:24.0000000Z",
+    "SHA256": "4B6C900FA29B2C79CDC38DEF65FF9FD2B362CA26732DFB7072380D712A26EDAC"
+  },
+  {
+    "Path": "Assets\\Welcome\\Welcome2DScript.cs",
+    "Bytes": 332,
+    "LastWriteTimeUtc": "2026-07-03T05:49:24.0000000Z",
+    "SHA256": "DE8913A7EAA8B8820D49E02D459F376CB7645E234123EE24CFEC3932A69D0C10"
+  },
+  {
+    "Path": "Assets\\Welcome\\Welcome2DScript.cs.meta",
+    "Bytes": 83,
+    "LastWriteTimeUtc": "2026-07-03T05:49:24.0000000Z",
+    "SHA256": "7844F4BF7129CF9DC2C7D6C0FCEEB518B8ACE15900E3012005ADFA16B625E757"
+  },
+  {
+    "Path": "Packages\\manifest.json",
+    "Bytes": 2401,
+    "LastWriteTimeUtc": "2026-10-29T18:18:26.0306628Z",
+    "SHA256": "E161BF96E8888F7A2A6131629ADDA005B3925F1C06F7F45A53C68A88B9C1490C"
+  },
+  {
+    "Path": "Packages\\packages-lock.json",
+    "Bytes": 15936,
+    "LastWriteTimeUtc": "2026-10-29T18:18:41.7600374Z",
+    "SHA256": "ABF69D7DA2B0AE09EBEC6D8DBD75FFDCA5536494AEE480EA1B255EF7153DDFAD"
+  },
+  {
+    "Path": "ProjectSettings\\AudioManager.asset",
+    "Bytes": 413,
+    "LastWriteTimeUtc": "2026-07-03T05:49:23.0000000Z",
+    "SHA256": "AEEDEB3243F07B61DBBE854AA08B5EF6F0B5274DD9852AD9F6129DDE3E105A31"
+  },
+  {
+    "Path": "ProjectSettings\\ClusterInputManager.asset",
+    "Bytes": 114,
+    "LastWriteTimeUtc": "2026-07-03T05:49:23.0000000Z",
+    "SHA256": "40E65DD214BF254955D2C8829CA8CE2130FD3510485560CE012E9A1DDD93E623"
+  },
+  {
+    "Path": "ProjectSettings\\DynamicsManager.asset",
+    "Bytes": 1254,
+    "LastWriteTimeUtc": "2026-07-03T05:49:23.0000000Z",
+    "SHA256": "B7C9A9DC08B98990109D4346F68745E15E238DE400F96C583E53E1C83C743A78"
+  },
+  {
+    "Path": "ProjectSettings\\EditorBuildSettings.asset",
+    "Bytes": 371,
+    "LastWriteTimeUtc": "2026-07-03T05:49:23.0000000Z",
+    "SHA256": "A9AC9DDCA68A9CAA6DFA08C1D24144CC2362BBA452A7747CCA45727B659CB142"
+  },
+  {
+    "Path": "ProjectSettings\\EditorSettings.asset",
+    "Bytes": 1673,
+    "LastWriteTimeUtc": "2026-10-29T18:19:47.2753638Z",
+    "SHA256": "F8F13B4EAD8154753E42BA1C82CD701D14D4C7EB70E6A9CC615A353B7B041A51"
+  },
+  {
+    "Path": "ProjectSettings\\GraphicsSettings.asset",
+    "Bytes": 2951,
+    "LastWriteTimeUtc": "2026-07-03T05:49:23.0000000Z",
+    "SHA256": "9EE4C5644B163546FAF4396E2861257E1EC0063A3DD8ED30AF69895D1213CE18"
+  },
+  {
+    "Path": "ProjectSettings\\InputManager.asset",
+    "Bytes": 9731,
+    "LastWriteTimeUtc": "2026-07-03T05:49:23.0000000Z",
+    "SHA256": "7A1BB836A1008D26D0860D143E9D9DF7CA41731D30A72901B518063819C62DF2"
+  },
+  {
+    "Path": "ProjectSettings\\MemorySettings.asset",
+    "Bytes": 1192,
+    "LastWriteTimeUtc": "2026-07-03T05:49:23.0000000Z",
+    "SHA256": "1E8379A461B10AE09F3F696911088C16875D63E87ED5F2D95DF9E1892703F9FD"
+  },
+  {
+    "Path": "ProjectSettings\\MultiplayerManager.asset",
+    "Bytes": 157,
+    "LastWriteTimeUtc": "2026-07-03T05:49:23.0000000Z",
+    "SHA256": "ABA89FD1A1DDAD182727AD82727E536D27372E90328A8196DA2A4560398983DD"
+  },
+  {
+    "Path": "ProjectSettings\\NavMeshAreas.asset",
+    "Bytes": 1308,
+    "LastWriteTimeUtc": "2026-07-03T05:49:23.0000000Z",
+    "SHA256": "80106CFA7E6181A1928B142C075F3E510D527441E3D79BC83590E4AC91E7CD66"
+  },
+  {
+    "Path": "ProjectSettings\\NetworkManager.asset",
+    "Bytes": 151,
+    "LastWriteTimeUtc": "2026-07-03T05:49:23.0000000Z",
+    "SHA256": "46395DEF99A6B5AE38EBB19B3E18F75215A9D4172C219361521A5A51E051F386"
+  },
+  {
+    "Path": "ProjectSettings\\PackageManagerSettings.asset",
+    "Bytes": 1232,
+    "LastWriteTimeUtc": "2026-07-03T05:49:23.0000000Z",
+    "SHA256": "BE815F7E993301FFA59A59C06160E969A6B5EC52833DFED83929759660F69DD1"
+  },
+  {
+    "Path": "ProjectSettings\\Physics2DSettings.asset",
+    "Bytes": 2028,
+    "LastWriteTimeUtc": "2026-07-03T05:49:23.0000000Z",
+    "SHA256": "50E61D70BC38C632CB0E6EFE364A9C5BCFD9A8DBCF4E7B5ECFB06A2030C4518F"
+  },
+  {
+    "Path": "ProjectSettings\\PhysicsCoreProjectSettings2D.asset",
+    "Bytes": 151,
+    "LastWriteTimeUtc": "2026-07-03T05:49:23.0000000Z",
+    "SHA256": "BEDC5339A832C60DC3F11B84ABC4F4384DBFA20B0CD9AD6C444B907E751FC35E"
+  },
+  {
+    "Path": "ProjectSettings\\PresetManager.asset",
+    "Bytes": 146,
+    "LastWriteTimeUtc": "2026-07-03T05:49:23.0000000Z",
+    "SHA256": "29C125923FE6E29F90190D4FCE1C82D660E7051546E2C9D02908D18C9CF2436C"
+  },
+  {
+    "Path": "ProjectSettings\\ProjectAuditorSettings.asset",
+    "Bytes": 1036,
+    "LastWriteTimeUtc": "2026-10-29T18:19:18.5527174Z",
+    "SHA256": "9E68444B9BDA981E2927A98DF9EDF69EA88362F0C6B7F3C81B39B9D515D2A416"
+  },
+  {
+    "Path": "ProjectSettings\\ProjectSettings.asset",
+    "Bytes": 20803,
+    "LastWriteTimeUtc": "2026-11-03T19:02:29.3297708Z",
+    "SHA256": "716F339E304985A05ED5005666981E0405C769EE10E3B217F4EC54AF8509B2D1"
+  },
+  {
+    "Path": "ProjectSettings\\ProjectVersion.txt",
+    "Bytes": 83,
+    "LastWriteTimeUtc": "2026-10-29T18:19:46.8057437Z",
+    "SHA256": "87289075C168CDD875E46A5FC308D15C686987848A70C7CE47FAF40196AC0E20"
+  },
+  {
+    "Path": "ProjectSettings\\QualitySettings.asset",
+    "Bytes": 10058,
+    "LastWriteTimeUtc": "2026-07-03T05:49:23.0000000Z",
+    "SHA256": "C1ED060F85623D3595B1E9EEA133D957CD92191639A6EDC51C638E3EDCBA240C"
+  },
+  {
+    "Path": "ProjectSettings\\SceneTemplateSettings.json",
+    "Bytes": 3535,
+    "LastWriteTimeUtc": "2026-10-29T20:48:23.4936775Z",
+    "SHA256": "BB9098B3BFCDE78D93E264B96F7B77B5430E64E8C57A7AAD7F5A5D9C3945E16A"
+  },
+  {
+    "Path": "ProjectSettings\\ShaderGraphSettings.asset",
+    "Bytes": 556,
+    "LastWriteTimeUtc": "2026-07-03T05:49:23.0000000Z",
+    "SHA256": "5C432C9C73FDF73FEE91C8823EA02AB98E3B7A8EDF341B5AE6901D699CCE52A7"
+  },
+  {
+    "Path": "ProjectSettings\\TagManager.asset",
+    "Bytes": 503,
+    "LastWriteTimeUtc": "2026-11-03T19:01:03.1896364Z",
+    "SHA256": "C44380C167D58DEA847FD6150EA968CF14D8DCE0BA7A96E6D811CB87110FB68A"
+  },
+  {
+    "Path": "ProjectSettings\\TimeManager.asset",
+    "Bytes": 202,
+    "LastWriteTimeUtc": "2026-07-03T05:49:23.0000000Z",
+    "SHA256": "1A83E54ADBBDA7C9F4851103A0C6AB7F6448A3343D4EA5B7620452FA08416ECD"
+  },
+  {
+    "Path": "ProjectSettings\\UnityConnectSettings.asset",
+    "Bytes": 1191,
+    "LastWriteTimeUtc": "2026-10-29T18:18:16.8032532Z",
+    "SHA256": "7F2112B8C6EA0885DCC72B312C9726FFCD909F2E89D1EEAD61889274A4E5D1C0"
+  },
+  {
+    "Path": "ProjectSettings\\URPProjectSettings.asset",
+    "Bytes": 461,
+    "LastWriteTimeUtc": "2026-07-03T05:49:23.0000000Z",
+    "SHA256": "C317FE22B9488785C0611F0642429922E5D324430D929BFFB41648130F30C218"
+  },
+  {
+    "Path": "ProjectSettings\\VersionControlSettings.asset",
+    "Bytes": 172,
+    "LastWriteTimeUtc": "2026-07-03T05:49:23.0000000Z",
+    "SHA256": "E199CDFA6A8F2BF33CFD47E549198F13E3EB2A5099E908FDB4E0F14D939CCC6B"
+  },
+  {
+    "Path": "ProjectSettings\\VFXManager.asset",
+    "Bytes": 308,
+    "LastWriteTimeUtc": "2026-07-03T05:49:23.0000000Z",
+    "SHA256": "F066C6483919961332415EE64204F74FE52F38C02E82892EB02B7A5B2E381F0E"
+  },
+  {
+    "Path": "ProjectSettings\\XRSettings.asset",
+    "Bytes": 158,
+    "LastWriteTimeUtc": "2026-07-03T05:49:23.0000000Z",
+    "SHA256": "EDD2BEB4A2E388312B4B7DA241AA51070434005D82C59363F1237DD2E567585F"
+  },
+  {
+    "Path": "ProjectSettings\\Packages\\com.unity.learn.iet-framework\\Settings.json",
+    "Bytes": 566,
+    "LastWriteTimeUtc": "2026-10-29T18:25:35.4928009Z",
+    "SHA256": "A9E4CE24607304DBDF55ACF453705514A0402B2369DB030471CA53D0A64A73EA"
+  },
+  {
+    "Path": "UserSettings\\EditorUserSettings.asset",
+    "Bytes": 1145,
+    "LastWriteTimeUtc": "2026-11-03T19:06:42.4789753Z",
+    "SHA256": "FAFDB5EF634C32AA718356F2C02E9255D59F756A49449CD1F61B882FF60A7F92"
+  },
+  {
+    "Path": "UserSettings\\HierarchyWindow.settings",
+    "Bytes": 1318,
+    "LastWriteTimeUtc": "2026-11-03T20:06:17.1293364Z",
+    "SHA256": "299EAE46FCB409B050EAB31E4291485BB79C7AEE1EF97E94757B1E3DDB4E1A08"
+  },
+  {
+    "Path": "UserSettings\\PlayModeUserSettings.asset",
+    "Bytes": 495,
+    "LastWriteTimeUtc": "2026-11-03T19:04:42.2918085Z",
+    "SHA256": "F57EA56BC29D0BFFFC19F201228216F8837E771DCE659D3122C9EA57D4B27427"
+  },
+  {
+    "Path": "UserSettings\\Search.index",
+    "Bytes": 287,
+    "LastWriteTimeUtc": "2026-11-03T19:04:44.5641422Z",
+    "SHA256": "88443AB2F8377DD2B8FD3068C9F631BBBF99EFDDE5C2F01BC19B96190F241B6D"
+  },
+  {
+    "Path": "UserSettings\\Search.settings",
+    "Bytes": 889,
+    "LastWriteTimeUtc": "2026-11-03T19:04:44.5667194Z",
+    "SHA256": "DE7D3A9C0C65878DE77A36B652F7BBDA987560D75FDC1AAB9FC1E58C0AC3B1CF"
+  },
+  {
+    "Path": "UserSettings\\Layouts\\default-6000.dwlt",
+    "Bytes": 53790,
+    "LastWriteTimeUtc": "2026-11-03T19:04:42.5838889Z",
+    "SHA256": "5E805D6518D7F507EBC9CB2FE846B75CB39CA7148263178A3215E2FD0FF82FD1"
+  }
+]
